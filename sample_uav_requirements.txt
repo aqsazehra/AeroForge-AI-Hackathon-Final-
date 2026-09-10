@@ -1,0 +1,14 @@
+Project: Civil Fixed-Wing UAV Engineering Demonstrator
+Mission: Long-endurance mapping / inspection support
+MTOW target: 10 kg
+Payload target: 2 kg
+Wingspan: 3.2 m
+Cruise speed target: 80 km/h
+Endurance target: 2 hours
+Flight controller: CUAV V6X
+Telemetry: P9-class telemetry link
+Navigation: GNSS + airspeed sensing
+Propulsion: electric BLDC motor + ESC + LiPo battery
+Structure: carbon/glass composite airframe
+Need: requirements review, architecture decisions, starter BOM, manufacturing plan, risk register and verification plan.
+Constraint: screening-level engineering only; qualified engineers validate calculations and test decisions.
