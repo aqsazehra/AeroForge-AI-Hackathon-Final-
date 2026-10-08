@@ -107,3 +107,13 @@ work is not permitted without prior written authorization.
 
 For permission to use the source code, please contact the project
 authors.
+
+## Project Attribution
+
+**Project:** AeroForge AI  
+**Team:** Skyward Innovators  
+**Team Leader:** Engr. Aqsa Zehra  
+**Domain:** Avionics | UAV Engineering | Agentic AI  
+**Year:** 2026
+
+© 2026 Engr. Aqsa Zehra / Skyward Innovators. All rights reserved.
