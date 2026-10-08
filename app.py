@@ -450,3 +450,23 @@ elif page == "Impact Dashboard":
 
 st.divider()
 st.caption(f"AeroForge AI • Agentic engineering hackathon prototype • {datetime.now().strftime('%d %b %Y')}")
+# Footer
+st.markdown(
+    """
+    <div style="
+        text-align: center;
+        color: #666;
+        font-size: 13px;
+        padding: 20px 0 10px 0;
+        margin-top: 30px;
+        border-top: 1px solid #ddd;
+    ">
+        <b>Created by Engr. Aqsa Zehra</b><br>
+        Skyward Innovators<br>
+        <span style="font-size: 12px;">
+            Agentic Engineering Copilot for Civil UAV Programs
+        </span>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
