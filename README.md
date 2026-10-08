@@ -91,3 +91,19 @@ This project is intended for benign civil engineering applications such as mappi
 **AeroForge AI — AI Engineering Copilot**
 
 Built as a prototype for an AI productivity and innovation hackathon.
+## Copyright & Usage
+
+© 2026 Engr. Aqsa Zehra / Skyward Innovators. All rights reserved.
+
+**AeroForge AI** is an original project developed by **Skyward
+Innovators** as an Agentic Engineering Copilot for Civil UAV Programs.
+
+This repository is provided for viewing, evaluation, demonstration,
+and educational purposes only.
+
+Copying, modifying, redistributing, republishing, or presenting this
+project or substantial portions of its source code as another person's
+work is not permitted without prior written authorization.
+
+For permission to use the source code, please contact the project
+authors.
